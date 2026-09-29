@@ -1,8 +1,10 @@
-name: Denny skraper
+name: Box office skraper
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Každý deň o 06:00 UTC. Víkendové čísla sa dopĺňajú v nedeľu až utorok,
+    # takže denný beh zachytí odhady aj konečné údaje.
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
       - run: pip install requests beautifulsoup4
       - run: python scraper.py
       - name: Ulozit zmeny
@@ -22,4 +24,4 @@ jobs:
           git config --global user.name "Bot"
           git config --global user.email "bot@users.noreply.github.com"
           git add data.json
-          git diff --quiet && git diff --cached --quiet || (git commit -m "Automaticka aktualizacia" && git push)
+          git diff --quiet && git diff --cached --quiet || (git commit -m "Box office: automaticka aktualizacia" && git push)
