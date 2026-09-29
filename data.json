@@ -1,32 +1,100 @@
-[
+{
+  "source": "boxofficemojo",
+  "updatedAt": "2026-09-29T07:19:40Z",
+  "weekend": {
+    "start": "2026-09-25",
+    "end": "2026-09-27"
+  },
+  "items": [
     {
-        "title": "Resident Evil"
+      "rank": 1,
+      "title": "Avengers Endgame: Encore 2026 Re-release",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 26106643,
+      "totalGross": 26106643,
+      "weeks": 1
     },
     {
-        "title": "Unabomber"
+      "rank": 2,
+      "title": "Resident Evil",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 23012848,
+      "totalGross": 103189095,
+      "weeks": 2
     },
     {
-        "title": "Monštrá"
+      "rank": 3,
+      "title": "Heart of the Beast",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 20042473,
+      "totalGross": 20042473,
+      "weeks": 1
     },
     {
-        "title": "Heart of the Beast"
+      "rank": 4,
+      "title": "Primetime",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 19197764,
+      "totalGross": 19197764,
+      "weeks": 1
     },
     {
-        "title": "The Love Hypothesis"
+      "rank": 5,
+      "title": "Forgotten Island",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 13007005,
+      "totalGross": 13007005,
+      "weeks": 1
     },
     {
-        "title": "Primetime"
+      "rank": 6,
+      "title": "Practical Magic 2",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 5600274,
+      "totalGross": 59762967,
+      "weeks": 3
     },
     {
-        "title": "Neagley"
+      "rank": 7,
+      "title": "Spider-Man: Brand New Day",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 4054489,
+      "totalGross": 950637311,
+      "weeks": 9
     },
     {
-        "title": "Lanterns"
+      "rank": 8,
+      "title": "The Odyssey",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 3802065,
+      "totalGross": 616623710,
+      "weeks": 11
     },
     {
-        "title": "MobLand"
+      "rank": 9,
+      "title": "Coyote vs. Acme",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 1915685,
+      "totalGross": 58393726,
+      "weeks": 5
     },
     {
-        "title": "The Gentlemen"
+      "rank": 10,
+      "title": "Daniel and the Fiery Furnace",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 1540161,
+      "totalGross": 6229247,
+      "weeks": 2
     }
-]
+  ]
+}
