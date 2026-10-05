@@ -1,18 +1,18 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-09-29T07:19:40Z",
+  "updatedAt": "2026-10-05T13:56:10Z",
   "weekend": {
-    "start": "2026-09-25",
-    "end": "2026-09-27"
+    "start": "2026-10-02",
+    "end": "2026-10-04"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Avengers Endgame: Encore 2026 Re-release",
+      "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 26106643,
-      "totalGross": 26106643,
+      "weekendGross": 32618776,
+      "totalGross": 32618776,
       "weeks": 1
     },
     {
@@ -20,81 +20,81 @@
       "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 23012848,
-      "totalGross": 103189095,
-      "weeks": 2
+      "weekendGross": 12500000,
+      "totalGross": 124894895,
+      "weeks": 3
     },
     {
       "rank": 3,
       "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 20042473,
-      "totalGross": 20042473,
-      "weeks": 1
+      "weekendGross": 11000000,
+      "totalGross": 38399111,
+      "weeks": 2
     },
     {
       "rank": 4,
       "title": "Primetime",
       "year": null,
       "imdbId": null,
-      "weekendGross": 19197764,
-      "totalGross": 19197764,
-      "weeks": 1
+      "weekendGross": 8000085,
+      "totalGross": 34085832,
+      "weeks": 2
     },
     {
       "rank": 5,
-      "title": "Forgotten Island",
+      "title": "Digger",
       "year": null,
       "imdbId": null,
-      "weekendGross": 13007005,
-      "totalGross": 13007005,
+      "weekendGross": 8000000,
+      "totalGross": 8000000,
       "weeks": 1
     },
     {
       "rank": 6,
-      "title": "Practical Magic 2",
+      "title": "Forgotten Island",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5600274,
-      "totalGross": 59762967,
-      "weeks": 3
+      "weekendGross": 7200000,
+      "totalGross": 23631200,
+      "weeks": 2
     },
     {
       "rank": 7,
-      "title": "Spider-Man: Brand New Day",
+      "title": "Avengers Endgame: Encore 2026 Re-release",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4054489,
-      "totalGross": 950637311,
-      "weeks": 9
+      "weekendGross": 4400000,
+      "totalGross": 36226985,
+      "weeks": 2
     },
     {
       "rank": 8,
-      "title": "The Odyssey",
+      "title": "Drishyam: The Conclusion",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3802065,
-      "totalGross": 616623710,
-      "weeks": 11
+      "weekendGross": 2715000,
+      "totalGross": 2715000,
+      "weeks": 1
     },
     {
       "rank": 9,
-      "title": "Coyote vs. Acme",
+      "title": "Practical Magic 2",
       "year": null,
       "imdbId": null,
-      "weekendGross": 1915685,
-      "totalGross": 58393726,
-      "weeks": 5
+      "weekendGross": 2655000,
+      "totalGross": 64696326,
+      "weeks": 4
     },
     {
       "rank": 10,
-      "title": "Daniel and the Fiery Furnace",
+      "title": "Spider-Man: Brand New Day",
       "year": null,
       "imdbId": null,
-      "weekendGross": 1540161,
-      "totalGross": 6229247,
-      "weeks": 2
+      "weekendGross": 2450000,
+      "totalGross": 954476970,
+      "weeks": 10
     }
   ]
 }
