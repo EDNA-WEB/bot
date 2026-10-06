@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-05T13:56:10Z",
+  "updatedAt": "2026-10-06T12:58:04Z",
   "weekend": {
     "start": "2026-10-02",
     "end": "2026-10-04"
@@ -11,8 +11,8 @@
       "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 32618776,
-      "totalGross": 32618776,
+      "weekendGross": 32031011,
+      "totalGross": 32031011,
       "weeks": 1
     },
     {
@@ -20,8 +20,8 @@
       "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 12500000,
-      "totalGross": 124894895,
+      "weekendGross": 12618839,
+      "totalGross": 125013734,
       "weeks": 3
     },
     {
@@ -29,12 +29,21 @@
       "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11000000,
-      "totalGross": 38399111,
+      "weekendGross": 10876713,
+      "totalGross": 38275824,
       "weeks": 2
     },
     {
       "rank": 4,
+      "title": "Digger",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 8001856,
+      "totalGross": 8001856,
+      "weeks": 1
+    },
+    {
+      "rank": 5,
       "title": "Primetime",
       "year": null,
       "imdbId": null,
@@ -43,21 +52,12 @@
       "weeks": 2
     },
     {
-      "rank": 5,
-      "title": "Digger",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 8000000,
-      "totalGross": 8000000,
-      "weeks": 1
-    },
-    {
       "rank": 6,
       "title": "Forgotten Island",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7200000,
-      "totalGross": 23631200,
+      "weekendGross": 7201655,
+      "totalGross": 23632855,
       "weeks": 2
     },
     {
@@ -65,12 +65,21 @@
       "title": "Avengers Endgame: Encore 2026 Re-release",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4400000,
-      "totalGross": 36226985,
+      "weekendGross": 4471524,
+      "totalGross": 36298509,
       "weeks": 2
     },
     {
       "rank": 8,
+      "title": "Practical Magic 2",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 2785993,
+      "totalGross": 64827319,
+      "weeks": 4
+    },
+    {
+      "rank": 9,
       "title": "Drishyam: The Conclusion",
       "year": null,
       "imdbId": null,
@@ -79,21 +88,12 @@
       "weeks": 1
     },
     {
-      "rank": 9,
-      "title": "Practical Magic 2",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 2655000,
-      "totalGross": 64696326,
-      "weeks": 4
-    },
-    {
       "rank": 10,
       "title": "Spider-Man: Brand New Day",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2450000,
-      "totalGross": 954476970,
+      "weekendGross": 2501553,
+      "totalGross": 954528523,
       "weeks": 10
     }
   ]
