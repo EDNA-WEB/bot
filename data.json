@@ -1,100 +1,100 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-06T12:58:04Z",
+  "updatedAt": "2026-10-12T14:44:33Z",
   "weekend": {
-    "start": "2026-10-02",
-    "end": "2026-10-04"
+    "start": "2026-10-09",
+    "end": "2026-10-11"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Verity",
+      "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 32031011,
-      "totalGross": 32031011,
+      "weekendGross": 27500000,
+      "totalGross": 27500000,
       "weeks": 1
     },
     {
       "rank": 2,
-      "title": "Resident Evil",
+      "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 12618839,
-      "totalGross": 125013734,
-      "weeks": 3
+      "weekendGross": 11482321,
+      "totalGross": 53861372,
+      "weeks": 2
     },
     {
       "rank": 3,
       "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 10876713,
-      "totalGross": 38275824,
-      "weeks": 2
+      "weekendGross": 7100000,
+      "totalGross": 49661661,
+      "weeks": 3
     },
     {
       "rank": 4,
-      "title": "Digger",
+      "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8001856,
-      "totalGross": 8001856,
-      "weeks": 1
-    },
-    {
-      "rank": 5,
-      "title": "Primetime",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 8000085,
-      "totalGross": 34085832,
-      "weeks": 2
-    },
-    {
-      "rank": 6,
-      "title": "Forgotten Island",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 7201655,
-      "totalGross": 23632855,
-      "weeks": 2
-    },
-    {
-      "rank": 7,
-      "title": "Avengers Endgame: Encore 2026 Re-release",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 4471524,
-      "totalGross": 36298509,
-      "weeks": 2
-    },
-    {
-      "rank": 8,
-      "title": "Practical Magic 2",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 2785993,
-      "totalGross": 64827319,
+      "weekendGross": 5815000,
+      "totalGross": 135990408,
       "weeks": 4
     },
     {
-      "rank": 9,
-      "title": "Drishyam: The Conclusion",
+      "rank": 5,
+      "title": "Forgotten Island",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2715000,
-      "totalGross": 2715000,
+      "weekendGross": 4500000,
+      "totalGross": 30272330,
+      "weeks": 3
+    },
+    {
+      "rank": 6,
+      "title": "Primetime",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 4014003,
+      "totalGross": 41467633,
+      "weeks": 3
+    },
+    {
+      "rank": 7,
+      "title": "The Social Reckoning",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 4010000,
+      "totalGross": 4010000,
+      "weeks": 1
+    },
+    {
+      "rank": 8,
+      "title": "Digger",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 3200000,
+      "totalGross": 14432754,
+      "weeks": 2
+    },
+    {
+      "rank": 9,
+      "title": "Angel and the Badman",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 2063407,
+      "totalGross": 2063407,
       "weeks": 1
     },
     {
       "rank": 10,
-      "title": "Spider-Man: Brand New Day",
+      "title": "The Odyssey",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2501553,
-      "totalGross": 954528523,
-      "weeks": 10
+      "weekendGross": 2000000,
+      "totalGross": 622972790,
+      "weeks": 13
     }
   ]
 }
