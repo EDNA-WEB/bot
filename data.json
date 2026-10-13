@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-12T14:44:33Z",
+  "updatedAt": "2026-10-13T13:47:18Z",
   "weekend": {
     "start": "2026-10-09",
     "end": "2026-10-11"
@@ -11,8 +11,8 @@
       "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 27500000,
-      "totalGross": 27500000,
+      "weekendGross": 27805825,
+      "totalGross": 27805825,
       "weeks": 1
     },
     {
@@ -20,39 +20,48 @@
       "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11482321,
-      "totalGross": 53861372,
+      "weekendGross": 12005559,
+      "totalGross": 54384610,
       "weeks": 2
     },
     {
       "rank": 3,
-      "title": "Heart of the Beast",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 7100000,
-      "totalGross": 49661661,
-      "weeks": 3
-    },
-    {
-      "rank": 4,
       "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5815000,
-      "totalGross": 135990408,
+      "weekendGross": 8563158,
+      "totalGross": 138738566,
       "weeks": 4
     },
     {
-      "rank": 5,
-      "title": "Forgotten Island",
+      "rank": 4,
+      "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4500000,
-      "totalGross": 30272330,
+      "weekendGross": 7438829,
+      "totalGross": 50000490,
       "weeks": 3
     },
     {
+      "rank": 5,
+      "title": "The Social Reckoning",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 5018263,
+      "totalGross": 5018263,
+      "weeks": 1
+    },
+    {
       "rank": 6,
+      "title": "Forgotten Island",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 4703380,
+      "totalGross": 30475710,
+      "weeks": 3
+    },
+    {
+      "rank": 7,
       "title": "Primetime",
       "year": null,
       "imdbId": null,
@@ -61,40 +70,31 @@
       "weeks": 3
     },
     {
-      "rank": 7,
-      "title": "The Social Reckoning",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 4010000,
-      "totalGross": 4010000,
-      "weeks": 1
-    },
-    {
       "rank": 8,
       "title": "Digger",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3200000,
-      "totalGross": 14432754,
+      "weekendGross": 3201557,
+      "totalGross": 14434311,
       "weeks": 2
     },
     {
       "rank": 9,
-      "title": "Angel and the Badman",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 2063407,
-      "totalGross": 2063407,
-      "weeks": 1
-    },
-    {
-      "rank": 10,
       "title": "The Odyssey",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2000000,
-      "totalGross": 622972790,
+      "weekendGross": 2147960,
+      "totalGross": 623120750,
       "weeks": 13
+    },
+    {
+      "rank": 10,
+      "title": "Angel and the Badman",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 2115116,
+      "totalGross": 2115116,
+      "weeks": 1
     }
   ]
 }
