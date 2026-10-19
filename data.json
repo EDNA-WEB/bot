@@ -1,100 +1,100 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-13T13:47:18Z",
+  "updatedAt": "2026-10-19T12:29:40Z",
   "weekend": {
-    "start": "2026-10-09",
-    "end": "2026-10-11"
+    "start": "2026-10-16",
+    "end": "2026-10-18"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Other Mommy",
+      "title": "Street Fighter",
       "year": null,
       "imdbId": null,
-      "weekendGross": 27805825,
-      "totalGross": 27805825,
+      "weekendGross": 31000000,
+      "totalGross": 31000000,
       "weeks": 1
     },
     {
       "rank": 2,
-      "title": "Verity",
+      "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 12005559,
-      "totalGross": 54384610,
-      "weeks": 2
+      "weekendGross": 15000000,
+      "totalGross": 15000000,
+      "weeks": 1
     },
     {
       "rank": 3,
-      "title": "Resident Evil",
+      "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8563158,
-      "totalGross": 138738566,
-      "weeks": 4
+      "weekendGross": 8350000,
+      "totalGross": 44854440,
+      "weeks": 2
     },
     {
       "rank": 4,
-      "title": "Heart of the Beast",
+      "title": "Whalefall",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7438829,
-      "totalGross": 50000490,
-      "weeks": 3
+      "weekendGross": 8000000,
+      "totalGross": 8000000,
+      "weeks": 1
     },
     {
       "rank": 5,
-      "title": "The Social Reckoning",
+      "title": "Sense and Sensibility",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5018263,
-      "totalGross": 5018263,
+      "weekendGross": 7250000,
+      "totalGross": 7250000,
       "weeks": 1
     },
     {
       "rank": 6,
-      "title": "Forgotten Island",
+      "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4703380,
-      "totalGross": 30475710,
+      "weekendGross": 6212000,
+      "totalGross": 66092402,
       "weeks": 3
     },
     {
       "rank": 7,
-      "title": "Primetime",
+      "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4014003,
-      "totalGross": 41467633,
-      "weeks": 3
+      "weekendGross": 5500000,
+      "totalGross": 148457955,
+      "weeks": 5
     },
     {
       "rank": 8,
-      "title": "Digger",
+      "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3201557,
-      "totalGross": 14434311,
-      "weeks": 2
+      "weekendGross": 4830000,
+      "totalGross": 58318451,
+      "weeks": 4
     },
     {
       "rank": 9,
-      "title": "The Odyssey",
+      "title": "Jailer 2",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2147960,
-      "totalGross": 623120750,
-      "weeks": 13
+      "weekendGross": 3260000,
+      "totalGross": 3260000,
+      "weeks": 1
     },
     {
       "rank": 10,
-      "title": "Angel and the Badman",
+      "title": "Forgotten Island",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2115116,
-      "totalGross": 2115116,
-      "weeks": 1
+      "weekendGross": 2250000,
+      "totalGross": 35107265,
+      "weeks": 4
     }
   ]
 }
