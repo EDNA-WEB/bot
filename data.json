@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-19T12:29:40Z",
+  "updatedAt": "2026-10-20T11:05:48Z",
   "weekend": {
     "start": "2026-10-16",
     "end": "2026-10-18"
@@ -11,8 +11,8 @@
       "title": "Street Fighter",
       "year": null,
       "imdbId": null,
-      "weekendGross": 31000000,
-      "totalGross": 31000000,
+      "weekendGross": 30775377,
+      "totalGross": 30775377,
       "weeks": 1
     },
     {
@@ -20,8 +20,8 @@
       "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 15000000,
-      "totalGross": 15000000,
+      "weekendGross": 15601418,
+      "totalGross": 15601418,
       "weeks": 1
     },
     {
@@ -29,8 +29,8 @@
       "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8350000,
-      "totalGross": 44854440,
+      "weekendGross": 8204680,
+      "totalGross": 44709120,
       "weeks": 2
     },
     {
@@ -38,8 +38,8 @@
       "title": "Whalefall",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8000000,
-      "totalGross": 8000000,
+      "weekendGross": 7837153,
+      "totalGross": 7837153,
       "weeks": 1
     },
     {
@@ -47,8 +47,8 @@
       "title": "Sense and Sensibility",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7250000,
-      "totalGross": 7250000,
+      "weekendGross": 7203465,
+      "totalGross": 7203465,
       "weeks": 1
     },
     {
@@ -56,8 +56,8 @@
       "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6212000,
-      "totalGross": 66092402,
+      "weekendGross": 6046599,
+      "totalGross": 65927001,
       "weeks": 3
     },
     {
@@ -65,8 +65,8 @@
       "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5500000,
-      "totalGross": 148457955,
+      "weekendGross": 5501456,
+      "totalGross": 148459411,
       "weeks": 5
     },
     {
@@ -74,8 +74,8 @@
       "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4830000,
-      "totalGross": 58318451,
+      "weekendGross": 4740501,
+      "totalGross": 58228952,
       "weeks": 4
     },
     {
@@ -92,8 +92,8 @@
       "title": "Forgotten Island",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2250000,
-      "totalGross": 35107265,
+      "weekendGross": 2349725,
+      "totalGross": 35206990,
       "weeks": 4
     }
   ]
