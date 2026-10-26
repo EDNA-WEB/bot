@@ -1,18 +1,18 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-20T11:05:48Z",
+  "updatedAt": "2026-10-26T12:27:57Z",
   "weekend": {
-    "start": "2026-10-16",
-    "end": "2026-10-18"
+    "start": "2026-10-23",
+    "end": "2026-10-25"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Street Fighter",
+      "title": "Clayface",
       "year": null,
       "imdbId": null,
-      "weekendGross": 30775377,
-      "totalGross": 30775377,
+      "weekendGross": 24000000,
+      "totalGross": 24000000,
       "weeks": 1
     },
     {
@@ -20,80 +20,80 @@
       "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 15601418,
-      "totalGross": 15601418,
-      "weeks": 1
-    },
-    {
-      "rank": 3,
-      "title": "Other Mommy",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 8204680,
-      "totalGross": 44709120,
+      "weekendGross": 19500000,
+      "totalGross": 45145476,
       "weeks": 2
     },
     {
-      "rank": 4,
-      "title": "Whalefall",
+      "rank": 3,
+      "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7837153,
-      "totalGross": 7837153,
+      "weekendGross": 11600000,
+      "totalGross": 11600000,
       "weeks": 1
     },
     {
-      "rank": 5,
-      "title": "Sense and Sensibility",
+      "rank": 4,
+      "title": "Street Fighter",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7203465,
-      "totalGross": 7203465,
+      "weekendGross": 8600000,
+      "totalGross": 46938634,
+      "weeks": 2
+    },
+    {
+      "rank": 5,
+      "title": "Wicker",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 5750000,
+      "totalGross": 5750000,
       "weeks": 1
     },
     {
       "rank": 6,
-      "title": "Verity",
+      "title": "HYBE Cine Fest 2026",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6046599,
-      "totalGross": 65927001,
-      "weeks": 3
-    },
-    {
-      "rank": 7,
-      "title": "Resident Evil",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 5501456,
-      "totalGross": 148459411,
-      "weeks": 5
-    },
-    {
-      "rank": 8,
-      "title": "Heart of the Beast",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 4740501,
-      "totalGross": 58228952,
-      "weeks": 4
-    },
-    {
-      "rank": 9,
-      "title": "Jailer 2",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 3260000,
-      "totalGross": 3260000,
+      "weekendGross": 4500000,
+      "totalGross": 4500000,
       "weeks": 1
     },
     {
-      "rank": 10,
-      "title": "Forgotten Island",
+      "rank": 7,
+      "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2349725,
-      "totalGross": 35206990,
+      "weekendGross": 3850000,
+      "totalGross": 51533730,
+      "weeks": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sense and Sensibility",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 3400000,
+      "totalGross": 13681645,
+      "weeks": 2
+    },
+    {
+      "rank": 9,
+      "title": "Whalefall",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 3200000,
+      "totalGross": 14073434,
+      "weeks": 2
+    },
+    {
+      "rank": 10,
+      "title": "Verity",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 3063056,
+      "totalGross": 71531254,
       "weeks": 4
     }
   ]
