@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-26T12:27:57Z",
+  "updatedAt": "2026-10-27T11:46:28Z",
   "weekend": {
     "start": "2026-10-23",
     "end": "2026-10-25"
@@ -11,8 +11,8 @@
       "title": "Clayface",
       "year": null,
       "imdbId": null,
-      "weekendGross": 24000000,
-      "totalGross": 24000000,
+      "weekendGross": 24002731,
+      "totalGross": 24002731,
       "weeks": 1
     },
     {
@@ -29,8 +29,8 @@
       "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11600000,
-      "totalGross": 11600000,
+      "weekendGross": 12273561,
+      "totalGross": 12273561,
       "weeks": 1
     },
     {
@@ -38,8 +38,8 @@
       "title": "Street Fighter",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8600000,
-      "totalGross": 46938634,
+      "weekendGross": 8587187,
+      "totalGross": 46925821,
       "weeks": 2
     },
     {
@@ -47,8 +47,8 @@
       "title": "Wicker",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5750000,
-      "totalGross": 5750000,
+      "weekendGross": 5745945,
+      "totalGross": 5745945,
       "weeks": 1
     },
     {
@@ -65,8 +65,8 @@
       "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3850000,
-      "totalGross": 51533730,
+      "weekendGross": 3903710,
+      "totalGross": 51587440,
       "weeks": 3
     },
     {
@@ -74,8 +74,8 @@
       "title": "Sense and Sensibility",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3400000,
-      "totalGross": 13681645,
+      "weekendGross": 3301250,
+      "totalGross": 13582895,
       "weeks": 2
     },
     {
@@ -83,8 +83,8 @@
       "title": "Whalefall",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3200000,
-      "totalGross": 14073434,
+      "weekendGross": 3084163,
+      "totalGross": 13957597,
       "weeks": 2
     },
     {
@@ -92,8 +92,8 @@
       "title": "Verity",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3063056,
-      "totalGross": 71531254,
+      "weekendGross": 3075675,
+      "totalGross": 71543873,
       "weeks": 4
     }
   ]
