@@ -1,100 +1,100 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-10-27T11:46:28Z",
+  "updatedAt": "2026-11-02T15:01:57Z",
   "weekend": {
-    "start": "2026-10-23",
-    "end": "2026-10-25"
+    "start": "2026-10-30",
+    "end": "2026-11-01"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Clayface",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 24002731,
-      "totalGross": 24002731,
-      "weeks": 1
-    },
-    {
-      "rank": 2,
       "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 19500000,
-      "totalGross": 45145476,
+      "weekendGross": 10600685,
+      "totalGross": 63882597,
+      "weeks": 3
+    },
+    {
+      "rank": 2,
+      "title": "Clayface",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 10400000,
+      "totalGross": 44064252,
       "weeks": 2
     },
     {
       "rank": 3,
-      "title": "Wildwood",
+      "title": "Wicker",
       "year": null,
       "imdbId": null,
-      "weekendGross": 12273561,
-      "totalGross": 12273561,
-      "weeks": 1
+      "weekendGross": 4125000,
+      "totalGross": 13261094,
+      "weeks": 2
     },
     {
       "rank": 4,
       "title": "Street Fighter",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8587187,
-      "totalGross": 46925821,
-      "weeks": 2
+      "weekendGross": 3200000,
+      "totalGross": 53012121,
+      "weeks": 3
     },
     {
       "rank": 5,
-      "title": "Wicker",
+      "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5745945,
-      "totalGross": 5745945,
+      "weekendGross": 2800000,
+      "totalGross": 2800000,
       "weeks": 1
     },
     {
       "rank": 6,
-      "title": "HYBE Cine Fest 2026",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 4500000,
-      "totalGross": 4500000,
-      "weeks": 1
-    },
-    {
-      "rank": 7,
       "title": "Other Mommy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3903710,
-      "totalGross": 51587440,
-      "weeks": 3
+      "weekendGross": 2500000,
+      "totalGross": 55625130,
+      "weeks": 4
+    },
+    {
+      "rank": 7,
+      "title": "Wildwood",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 2407426,
+      "totalGross": 20812219,
+      "weeks": 2
     },
     {
       "rank": 8,
-      "title": "Sense and Sensibility",
+      "title": "The Only Living Pickpocket in New York",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3301250,
-      "totalGross": 13582895,
-      "weeks": 2
+      "weekendGross": 1919000,
+      "totalGross": 2120000,
+      "weeks": 3
     },
     {
       "rank": 9,
-      "title": "Whalefall",
+      "title": "Resident Evil",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3084163,
-      "totalGross": 13957597,
-      "weeks": 2
+      "weekendGross": 1870000,
+      "totalGross": 156743502,
+      "weeks": 7
     },
     {
       "rank": 10,
-      "title": "Verity",
+      "title": "Heart of the Beast",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3075675,
-      "totalGross": 71543873,
-      "weeks": 4
+      "weekendGross": 1615000,
+      "totalGross": 65110233,
+      "weeks": 6
     }
   ]
 }
