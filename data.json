@@ -1,100 +1,100 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-06T13:54:06Z",
+  "updatedAt": "2026-11-09T15:31:29Z",
   "weekend": {
-    "start": "2026-10-30",
-    "end": "2026-11-01"
+    "start": "2026-11-06",
+    "end": "2026-11-08"
   },
   "items": [
     {
       "rank": 1,
-      "title": "You Can See Everything",
+      "title": "Godzilla Minus Zero",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11445629,
-      "totalGross": 64727541,
-      "weeks": 3
+      "weekendGross": 31610000,
+      "totalGross": 31610000,
+      "weeks": 1
     },
     {
       "rank": 2,
-      "title": "Clayface",
+      "title": "The Cat in the Hat",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11002116,
-      "totalGross": 44666368,
-      "weeks": 2
+      "weekendGross": 20500000,
+      "totalGross": 20500000,
+      "weeks": 1
     },
     {
       "rank": 3,
-      "title": "Wildwood",
+      "title": "Drummer Boy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8915361,
-      "totalGross": 27296597,
-      "weeks": 2
+      "weekendGross": 9312551,
+      "totalGross": 9312551,
+      "weeks": 1
     },
     {
       "rank": 4,
-      "title": "Wicker",
+      "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4364009,
-      "totalGross": 13500103,
-      "weeks": 2
+      "weekendGross": 8862847,
+      "totalGross": 79797396,
+      "weeks": 4
     },
     {
       "rank": 5,
-      "title": "Street Fighter",
+      "title": "Clayface",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3659618,
-      "totalGross": 53471739,
+      "weekendGross": 6675000,
+      "totalGross": 56607567,
       "weeks": 3
     },
     {
       "rank": 6,
-      "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
+      "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2800000,
-      "totalGross": 2800000,
-      "weeks": 1
+      "weekendGross": 6581802,
+      "totalGross": 39400000,
+      "weeks": 3
     },
     {
       "rank": 7,
-      "title": "Other Mommy",
+      "title": "Ramayana",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2595895,
-      "totalGross": 55721025,
-      "weeks": 4
+      "weekendGross": 6240000,
+      "totalGross": 6240000,
+      "weeks": 1
     },
     {
       "rank": 8,
-      "title": "Resident Evil",
+      "title": "Wild Horse Nine",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2550957,
-      "totalGross": 157424459,
-      "weeks": 7
+      "weekendGross": 6000000,
+      "totalGross": 6000000,
+      "weeks": 1
     },
     {
       "rank": 9,
-      "title": "The Only Living Pickpocket in New York",
+      "title": "Wicker",
       "year": null,
       "imdbId": null,
-      "weekendGross": 1878274,
-      "totalGross": 2082194,
+      "weekendGross": 3350000,
+      "totalGross": 19885478,
       "weeks": 3
     },
     {
       "rank": 10,
-      "title": "Heart of the Beast",
+      "title": "Jimmy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 1656721,
-      "totalGross": 65151954,
-      "weeks": 6
+      "weekendGross": 2200000,
+      "totalGross": 2200000,
+      "weeks": 1
     }
   ]
 }
