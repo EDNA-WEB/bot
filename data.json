@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-09T15:31:29Z",
+  "updatedAt": "2026-11-10T14:30:24Z",
   "weekend": {
     "start": "2026-11-06",
     "end": "2026-11-08"
@@ -11,8 +11,8 @@
       "title": "Godzilla Minus Zero",
       "year": null,
       "imdbId": null,
-      "weekendGross": 31610000,
-      "totalGross": 31610000,
+      "weekendGross": 30587672,
+      "totalGross": 30587672,
       "weeks": 1
     },
     {
@@ -20,8 +20,8 @@
       "title": "The Cat in the Hat",
       "year": null,
       "imdbId": null,
-      "weekendGross": 20500000,
-      "totalGross": 20500000,
+      "weekendGross": 20002705,
+      "totalGross": 20002705,
       "weeks": 1
     },
     {
@@ -29,72 +29,72 @@
       "title": "Drummer Boy",
       "year": null,
       "imdbId": null,
-      "weekendGross": 9312551,
-      "totalGross": 9312551,
+      "weekendGross": 9421843,
+      "totalGross": 9421843,
       "weeks": 1
     },
     {
       "rank": 4,
-      "title": "You Can See Everything",
+      "title": "Ramayana",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8862847,
-      "totalGross": 79797396,
-      "weeks": 4
+      "weekendGross": 8939505,
+      "totalGross": 8939505,
+      "weeks": 1
     },
     {
       "rank": 5,
-      "title": "Clayface",
+      "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6675000,
-      "totalGross": 56607567,
-      "weeks": 3
+      "weekendGross": 8442462,
+      "totalGross": 79377011,
+      "weeks": 4
     },
     {
       "rank": 6,
       "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6581802,
-      "totalGross": 39400000,
+      "weekendGross": 7210898,
+      "totalGross": 40046369,
       "weeks": 3
     },
     {
       "rank": 7,
-      "title": "Ramayana",
+      "title": "Clayface",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6240000,
-      "totalGross": 6240000,
-      "weeks": 1
+      "weekendGross": 6728001,
+      "totalGross": 56660568,
+      "weeks": 3
     },
     {
       "rank": 8,
       "title": "Wild Horse Nine",
       "year": null,
       "imdbId": null,
-      "weekendGross": 6000000,
-      "totalGross": 6000000,
+      "weekendGross": 5906410,
+      "totalGross": 5906410,
       "weeks": 1
     },
     {
       "rank": 9,
-      "title": "Wicker",
+      "title": "Stray Kids World Tour 'Run It' Live Viewing",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3350000,
-      "totalGross": 19885478,
-      "weeks": 3
+      "weekendGross": 3700000,
+      "totalGross": 3700000,
+      "weeks": 1
     },
     {
       "rank": 10,
-      "title": "Jimmy",
+      "title": "Wicker",
       "year": null,
       "imdbId": null,
-      "weekendGross": 2200000,
-      "totalGross": 2200000,
-      "weeks": 1
+      "weekendGross": 3411738,
+      "totalGross": 19947216,
+      "weeks": 3
     }
   ]
 }
