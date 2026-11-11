@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-10T14:30:24Z",
+  "updatedAt": "2026-11-11T13:45:26Z",
   "weekend": {
     "start": "2026-11-06",
     "end": "2026-11-08"
@@ -11,8 +11,8 @@
       "title": "Godzilla Minus Zero",
       "year": null,
       "imdbId": null,
-      "weekendGross": 30587672,
-      "totalGross": 30587672,
+      "weekendGross": 30612674,
+      "totalGross": 30612674,
       "weeks": 1
     },
     {
@@ -56,8 +56,8 @@
       "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7210898,
-      "totalGross": 40046369,
+      "weekendGross": 7245403,
+      "totalGross": 40081350,
       "weeks": 3
     },
     {
