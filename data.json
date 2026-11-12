@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-11T13:45:26Z",
+  "updatedAt": "2026-11-12T14:49:01Z",
   "weekend": {
     "start": "2026-11-06",
     "end": "2026-11-08"
@@ -11,8 +11,8 @@
       "title": "Godzilla Minus Zero",
       "year": null,
       "imdbId": null,
-      "weekendGross": 30612674,
-      "totalGross": 30612674,
+      "weekendGross": 30628265,
+      "totalGross": 30628265,
       "weeks": 1
     },
     {
@@ -39,7 +39,7 @@
       "year": null,
       "imdbId": null,
       "weekendGross": 8939505,
-      "totalGross": 8939505,
+      "totalGross": 12445187,
       "weeks": 1
     },
     {
@@ -83,8 +83,8 @@
       "title": "Stray Kids World Tour 'Run It' Live Viewing",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3700000,
-      "totalGross": 3700000,
+      "weekendGross": 3720294,
+      "totalGross": 3720294,
       "weeks": 1
     },
     {
