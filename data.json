@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-12T14:49:01Z",
+  "updatedAt": "2026-11-13T14:08:21Z",
   "weekend": {
     "start": "2026-11-06",
     "end": "2026-11-08"
@@ -56,8 +56,8 @@
       "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 7245403,
-      "totalGross": 40081350,
+      "weekendGross": 7245718,
+      "totalGross": 40081665,
       "weeks": 3
     },
     {
