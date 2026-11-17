@@ -1,6 +1,6 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-16T15:09:16Z",
+  "updatedAt": "2026-11-17T15:39:41Z",
   "weekend": {
     "start": "2026-11-13",
     "end": "2026-11-15"
@@ -11,8 +11,8 @@
       "title": "Ebenezer",
       "year": null,
       "imdbId": null,
-      "weekendGross": 19000000,
-      "totalGross": 19000000,
+      "weekendGross": 19012017,
+      "totalGross": 19012017,
       "weeks": 1
     },
     {
@@ -20,8 +20,8 @@
       "title": "The Cat in the Hat",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11400000,
-      "totalGross": 38165355,
+      "weekendGross": 11300531,
+      "totalGross": 38065886,
       "weeks": 2
     },
     {
@@ -29,12 +29,21 @@
       "title": "Godzilla Minus Zero",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5870000,
-      "totalGross": 46443262,
+      "weekendGross": 8509392,
+      "totalGross": 49082654,
       "weeks": 2
     },
     {
       "rank": 4,
+      "title": "Ramayana",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 5802929,
+      "totalGross": 24434121,
+      "weeks": 2
+    },
+    {
+      "rank": 5,
       "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
@@ -43,57 +52,48 @@
       "weeks": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "How to Rob a Bank",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5175000,
-      "totalGross": 5175000,
+      "weekendGross": 5186118,
+      "totalGross": 5186118,
       "weeks": 1
     },
     {
-      "rank": 6,
-      "title": "Wild Horse Nine",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 4600000,
-      "totalGross": 13324332,
-      "weeks": 2
-    },
-    {
       "rank": 7,
-      "title": "Wildwood",
+      "title": "Ghost Soldier",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4372404,
-      "totalGross": 48310469,
-      "weeks": 4
+      "weekendGross": 5103780,
+      "totalGross": 8212392,
+      "weeks": 1
     },
     {
       "rank": 8,
-      "title": "Ramayana",
+      "title": "Wild Horse Nine",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3820000,
-      "totalGross": 22451192,
+      "weekendGross": 4525465,
+      "totalGross": 13249797,
       "weeks": 2
     },
     {
       "rank": 9,
-      "title": "Ghost Soldier",
+      "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3740000,
-      "totalGross": 6848612,
-      "weeks": 1
+      "weekendGross": 4428692,
+      "totalGross": 48361856,
+      "weeks": 4
     },
     {
       "rank": 10,
       "title": "Clayface",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3725000,
-      "totalGross": 63634121,
+      "weekendGross": 3700314,
+      "totalGross": 63609435,
       "weeks": 4
     }
   ]
