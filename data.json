@@ -1,100 +1,100 @@
 {
   "source": "boxofficemojo",
-  "updatedAt": "2026-11-19T15:25:04Z",
+  "updatedAt": "2026-11-23T17:38:15Z",
   "weekend": {
-    "start": "2026-11-13",
-    "end": "2026-11-15"
+    "start": "2026-11-20",
+    "end": "2026-11-22"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Ebenezer",
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": null,
       "imdbId": null,
-      "weekendGross": 19012017,
-      "totalGross": 19012017,
+      "weekendGross": 120000000,
+      "totalGross": 120000000,
       "weeks": 1
     },
     {
       "rank": 2,
-      "title": "The Cat in the Hat",
+      "title": "I Play Rocky",
       "year": null,
       "imdbId": null,
-      "weekendGross": 11300531,
-      "totalGross": 38065886,
-      "weeks": 2
+      "weekendGross": 9328000,
+      "totalGross": 10422798,
+      "weeks": 3
     },
     {
       "rank": 3,
-      "title": "Godzilla Minus Zero",
+      "title": "Ebenezer",
       "year": null,
       "imdbId": null,
-      "weekendGross": 8509392,
-      "totalGross": 49082654,
+      "weekendGross": 7700000,
+      "totalGross": 32546820,
       "weeks": 2
     },
     {
       "rank": 4,
-      "title": "Ramayana",
+      "title": "The Cat in the Hat",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5802929,
-      "totalGross": 24434121,
-      "weeks": 2
+      "weekendGross": 6850000,
+      "totalGross": 47119053,
+      "weeks": 3
     },
     {
       "rank": 5,
       "title": "You Can See Everything",
       "year": null,
       "imdbId": null,
-      "weekendGross": 5470790,
-      "totalGross": 89009558,
-      "weeks": 5
+      "weekendGross": 2524732,
+      "totalGross": 93470379,
+      "weeks": 6
     },
     {
       "rank": 6,
-      "title": "How to Rob a Bank",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 5186118,
-      "totalGross": 5186118,
-      "weeks": 1
-    },
-    {
-      "rank": 7,
-      "title": "Ghost Soldier",
-      "year": null,
-      "imdbId": null,
-      "weekendGross": 5103780,
-      "totalGross": 8212392,
-      "weeks": 1
-    },
-    {
-      "rank": 8,
       "title": "Wild Horse Nine",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4525465,
-      "totalGross": 13249797,
-      "weeks": 2
+      "weekendGross": 2500000,
+      "totalGross": 17964466,
+      "weeks": 3
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Wildwood",
       "year": null,
       "imdbId": null,
-      "weekendGross": 4449919,
-      "totalGross": 48383083,
-      "weeks": 4
+      "weekendGross": 2299143,
+      "totalGross": 52394143,
+      "weeks": 5
+    },
+    {
+      "rank": 8,
+      "title": "Godzilla Minus Zero",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 1867000,
+      "totalGross": 53731640,
+      "weeks": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ghost Soldier",
+      "year": null,
+      "imdbId": null,
+      "weekendGross": 1680000,
+      "totalGross": 11820971,
+      "weeks": 2
     },
     {
       "rank": 10,
-      "title": "Clayface",
+      "title": "How to Rob a Bank",
       "year": null,
       "imdbId": null,
-      "weekendGross": 3700314,
-      "totalGross": 63609435,
-      "weeks": 4
+      "weekendGross": 1679767,
+      "totalGross": 8689420,
+      "weeks": 2
     }
   ]
 }
